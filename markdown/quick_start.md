@@ -6,3 +6,5 @@
 你甚至不需要下载任何东西。有几个在线Markdown编辑器可以用来尝试写作Markdown。Dillinger是其中一个最好的在线Markdown编辑器。只需打开网站，在左侧窗格中开始输入文字即可。渲染后的文档预览将显示在右侧窗格中。
 
 ![image](https://github.com/walihome/docs/assets/59221460/28c1df0b-0615-4b72-9572-69d4c74a4604)
+
+在阅读本指南时，您可能会希望保持Dillinger网站打开。这样您就可以边学习语法，边尝试使用它。熟悉Markdown后，您可能还想使用一款可安装在桌面电脑或移动设备上的Markdown应用程序。
