@@ -8,3 +8,8 @@ Markdown是一种轻量级标记语言，您可以使用它来为纯文本文档
 
 ![image](https://github.com/walihome/docs/assets/59221460/591d67e8-8843-44bf-9510-b69c5b3f80da)
 
+你可以使用文本编辑器应用程序向纯文本文件添加Markdown格式化元素。或者，您可以使用适用于macOS、Windows、Linux、iOS和Android操作系统的众多Markdown应用程序。还有一些专门设计用于编写Markdown的基于Web的应用程序。
+
+根据您使用的应用程序，您可能无法实时预览格式化后的文档。但这没关系。根据Gruber所说，Markdown语法旨在易读且不显眼，因此即使未渲染，Markdown文件中的文本也是可读取的。
+
+> Markdown的格式语法的最重要设计目标是使其尽可能易读。理念是，一个用Markdown格式编写的文档应该可以直接发布为纯文本，而不会看起来像被标记或带有格式指令。
